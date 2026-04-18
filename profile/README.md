@@ -1,0 +1,1 @@
+Wist Studio is a studio created by itnproject. We develop Android, Windows, and web. Android has always been an open platform, but Google has directly turned the opening into a closed, and we strongly oppose it!
